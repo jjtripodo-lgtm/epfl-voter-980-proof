@@ -1,0 +1,19 @@
+{
+  "best_results/size/voter_size_2027.blif": "1172cc9d7b4b7ecd44dae7ef3d721127965d9311fbf119c7c8cca58abfa5c18e",
+  "licenses/epfl_benchmarks_mit.txt": "83e4dd21429a91fb7cea67a476032a9641425e5355df2e0f589a738b6ec9fd2c",
+  "proof/audit_bdd_core_fast.cpp": "c747378528655568aec4ef1a786c83871885b9be72148b6c5a3b0b64545b4022",
+  "proof/BDD_KERNEL_FAST_CHECKS.json": "bc8caed561bf5c5c4da7fb0ae2cf96ac01cd08d5620d9d15962fde145362d47a",
+  "proof/bdd_replay_fast.cpp": "42e341e796ea9a3bd478f7147a1b59e146ef18ebf2b2c24ef13869b4de02bfd2",
+  "proof/check_carry_network.py": "18591a845b94a27bc5dd7fe0cc4ea259819487325b79a2c0c15a4e2eb50f6761",
+  "proof/original_exact.plan": "32e2741559aefcb21206552bf782dcbc25e9bd182c764cbaf1a67bdfd5927a35",
+  "proof/original_fast.json": "078742119357259a64beed5d8bff671846511c0067e00fa51a335a51a8fe1f5f",
+  "proof/original_fast.log": "12cd0912180829af6387a18198dcce57385ed3587a245f8ff18586f96d504746",
+  "proof/original_wrong_threshold.json": "1dbd14a0a22d88738d74e746aba29be3ea24d056887d10371adcf03181f746f5",
+  "proof/original_wrong_threshold.log": "7b76bcc02b44cf1933087a7373335e9cb7e2cb3af88ee4556bea8936bebc0547",
+  "proof/verify_original_bdd_plan.py": "0eb49e2a3be6434ee36364e6e939bd55c6c89b2ead9b476e8b5fca211f14c056",
+  "proof/verify_voter_independent.py": "13e4fda4fbc6531dcf056c1887f46181a96992e47ee51c8a83b803af27f9969e",
+  "source/mixed_980_12.blif": "56d1815ffb63fe65240809bde1be4435f4aecee43f29137b573e8766d50a0f4a",
+  "source/mixed_980_12.blif.meta.json": "ce8c1038a95dd69130dff33ff03732499455b22d3627cd7c3ffd6db08d434c2e",
+  "source/voter_original.blif": "542214e933efbcd563aebf9a3a7487dfb596c823af2e62f72b105b2dae1ed597",
+  "structure.py": "00ae091d54bf0fec42dccbc6a5f57942974796142cdeb74e9c9b41224269deae"
+}
