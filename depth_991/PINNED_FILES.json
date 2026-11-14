@@ -1,0 +1,16 @@
+{
+  "best_results/depth/voter_depth_2027.blif": "79dab10ff9673246a4775e86553ef44dc4394506e5604077ea6e22cb642d7721",
+  "licenses/epfl_benchmarks_mit.txt": "83e4dd21429a91fb7cea67a476032a9641425e5355df2e0f589a738b6ec9fd2c",
+  "proof/audit_bdd_core_fast.cpp": "c747378528655568aec4ef1a786c83871885b9be72148b6c5a3b0b64545b4022",
+  "proof/bdd_replay_fast.cpp": "42e341e796ea9a3bd478f7147a1b59e146ef18ebf2b2c24ef13869b4de02bfd2",
+  "proof/check_frontier_enum.py": "2b0bf1e13a0a6d26fbff7742f9636695d249aeb884b426c111e310cfdd31d39e",
+  "proof/check_generic.py": "c913da04e36184656d555f09026d5024313e7e4249935b180f78ad17a4482e29",
+  "proof/literal.py": "4330ce74c38aa5eae5b7bbb57c67bf404fc985d75df6a8845f22474b489e646f",
+  "proof/original_exact.plan": "32e2741559aefcb21206552bf782dcbc25e9bd182c764cbaf1a67bdfd5927a35",
+  "proof/verify_original_bdd_plan.py": "0eb49e2a3be6434ee36364e6e939bd55c6c89b2ead9b476e8b5fca211f14c056",
+  "proof/verify_voter_independent.py": "13e4fda4fbc6531dcf056c1887f46181a96992e47ee51c8a83b803af27f9969e",
+  "source/staged_tuned_991_8.blif": "22d7bdf150817c107226f0c5f9a147823c7d32c1279f67a1337fe60a15f482f6",
+  "source/staged_tuned_991_8.blif.meta.json": "29dc9b986ae7e04703bda17c9ccaaa40d9fc02c46bc3b340e0139f4e2806c541",
+  "source/voter_original.blif": "542214e933efbcd563aebf9a3a7487dfb596c823af2e62f72b105b2dae1ed597",
+  "structure.py": "00ae091d54bf0fec42dccbc6a5f57942974796142cdeb74e9c9b41224269deae"
+}
